@@ -15,6 +15,15 @@ nav {
     background-color: #264653;
 }
 
+nav a {
+    color: #ffffff;
+}
+
+nav a:visited {
+    color: #ffffff;
+}
+
+
 /* 6. Màu nền và cỡ chữ nội dung chính */
 main {
     background-color: #f1faee;
