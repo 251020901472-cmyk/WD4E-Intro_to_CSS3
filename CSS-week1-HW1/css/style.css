@@ -63,3 +63,11 @@ footer {
     background-color: #d9eaf7;
     color: #1d3557;
 }
+
+nav a,
+nav a:visited,
+nav a:hover,
+nav a:active {
+    color: #ffffff;
+    background-color: #264653;
+}
