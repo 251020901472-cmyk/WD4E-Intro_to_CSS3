@@ -52,3 +52,14 @@ h1 {
 p {
     line-height: 1.6;
 }
+
+main {
+    background-color: #f1faee;
+    font-size: 18px;
+    color: #1d3557;
+}
+
+footer {
+    background-color: #d9eaf7;
+    color: #1d3557;
+}
